@@ -1,0 +1,8 @@
+
+
+#comments here
+/test.txt
+*.js
+!temp.txt
+debug[a-z].log
+debug[0-9].log
